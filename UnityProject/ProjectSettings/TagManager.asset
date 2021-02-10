@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BlasterAmmo
+  - Enemy
+  - PhotonAmmo
+  - FlakAmmo
+  - Boost
+  - TitanAmmo
+  - PiercerAmmo
+  - HyperAmmo
+  - VortexAmmo
+  - FlakGun
+  - PhotonGun
+  - PiercerGun
+  - TitanGun
+  - HyperGun
+  - VortexGun
+  - Health
+  - Armor
+  - Health+25
+  - Health+5
+  - Health+100
+  - TitanProj
+  - FlakProj
+  - PiercerProj
+  - BlasterProj
+  - PhotonProj
+  - HyperProj
+  - VortexProj
+  - Armor+1
+  - Armor+50
+  - Armor+200
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - PlayerProjectile
+  - GunP1
+  - Light
+  - PickUp
+  - GunP2
+  - GunP3
+  - GunP4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
