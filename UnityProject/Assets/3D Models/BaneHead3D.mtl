@@ -1,0 +1,48 @@
+newmtl FaceTop Front Inflation Material
+Ka 0.117647 0.117647 0.117647
+Kd 0.000000 0.000000 0.000000
+Ks 0.311216 0.311216 0.311216
+Ns 28.640797
+d 1.000000
+Tr 0.000000
+map_Kd Capsule - Diffuse.PNG 
+map_Bump Satin-Texture-1.PNG 
+
+newmtl FaceTop Front Bevel Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.200000 0.200000 0.200000
+Ns 6.062867
+d 1.000000
+Tr 0.000000
+map_Kd -s 0.318747 0.678688 1.0 -o 0.340627 0.293522 1.0 FaceTop.PNG 
+
+newmtl FaceTop Extrusion Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.835294 0.011765 0.011765
+Ks 0.160000 0.160000 0.160000
+Ns 32.000000
+d 1.000000
+Tr 0.000000
+map_Kd Capsule - Diffuse.PNG 
+map_Bump Fun-Misc-Material-A1e.PNG 
+adobe_map_Shininess Fun-Misc-Material-A1e.PNG 
+
+newmtl FaceTop Back Bevel Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.200000 0.200000 0.200000
+Ns 6.062867
+d 1.000000
+Tr 0.000000
+map_Kd -s 0.318747 0.678688 1.0 -o 0.340627 0.293522 1.0 FaceTop.PNG 
+
+newmtl FaceTop Back Inflation Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.200000 0.200000 0.200000
+Ns 6.062867
+d 1.000000
+Tr 0.000000
+map_Kd -s 0.318747 0.678688 1.0 -o 0.340627 0.293522 1.0 FaceTop.PNG 
+

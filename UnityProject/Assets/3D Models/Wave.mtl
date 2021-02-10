@@ -1,0 +1,46 @@
+newmtl X Front Inflation Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.980392 0.980392 0.980392
+Ks 0.872392 0.872392 0.872392
+Ns 458.252899
+d 0.020000
+Tr 0.980000
+map_Kd Capsule - Diffuse0000.png 
+
+newmtl X Front Bevel Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.980392 0.980392 0.980392
+Ks 0.872392 0.872392 0.872392
+Ns 458.252899
+d 0.020000
+Tr 0.980000
+map_Kd Capsule - Diffuse0000.png 
+map_Bump Material - Scratched - Bump.PNG 
+
+newmtl X Extrusion Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.917647 0.000000
+Ks 0.953098 0.953098 0.953098
+Ns 188.706451
+d 0.320000
+Tr 0.680000
+map_Kd Capsule - Diffuse0000.png 
+
+newmtl X Back Bevel Material
+Ka 0.117647 0.117647 0.117647
+Kd 0.972549 0.968627 0.941176
+Ks 0.029176 0.029176 0.029176
+Ns 10.556064
+d 1.000000
+Tr 0.000000
+map_Kd Capsule - Diffuse0000.png 
+map_Bump Cotton-Weave-1.PNG 
+
+newmtl X Back Inflation Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ns 6.062867
+d 1.000000
+Tr 0.000000
+
